@@ -7,4 +7,4 @@ else :
     
     discount=total_amount *5/100
     
-print(total_amount-discount)
+print("the discount is :" total_amount-discount)
