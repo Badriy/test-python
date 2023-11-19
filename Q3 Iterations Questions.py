@@ -1,4 +1,4 @@
-#Q2 of Iterations Questions:
+#Q3 of Iterations Questions:
 
 #Write a python code to draw this shape:
 #*
